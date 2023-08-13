@@ -17,7 +17,6 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-
 #include <ros/package.h>
 #include <ros/ros.h>
 #include <feature/feature_extraction.h>

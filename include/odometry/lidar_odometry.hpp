@@ -20,13 +20,11 @@
 #ifndef LIDAR_ODOMETRY_HPP
 #define LIDAR_ODOMETRY_HPP
 
-
 #include <sensor_data/imu_data.h>
 #include <basalt/utils/eigen_utils.hpp>
 #include <memory>
 #include <trajectory/se3_trajectory.hpp>
 #include <trajectory/trajectory_manager.hpp>
-// #include <feature/feature_extraction.h>
 // allows us to use pcl::transformPointCloud function
 #include <pcl/common/transforms.h>
 

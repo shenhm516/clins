@@ -17,7 +17,6 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-
 #include <rosbag/bag.h>
 #include <feature/feature_extraction.h>
 using namespace std;

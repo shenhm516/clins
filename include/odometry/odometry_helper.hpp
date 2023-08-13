@@ -34,7 +34,6 @@
 #include <yaml-cpp/yaml.h>
 
 #include <clins/feature_cloud.h>
-
 #include <odometry/imu_state_estimator.h>
 #include <odometry/inertial_initializer.h>
 #include <utils/gps_convert_utils.h>
